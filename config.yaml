@@ -1,0 +1,44 @@
+username:
+password:
+phone_number:
+
+positions:
+  - Backend
+  - Java
+#- Javascript
+#- React
+
+locations:
+  - Germany
+# -
+#- Netherlands
+#- London
+#- Switzerland
+#- Los Angeles
+#- San Diego
+#- Singapore
+#- Bay Area
+
+# --------- Optional Parameters -------
+#uploads:
+#  Resume:  D:\Personal\Meral_Kilicgil_Resume (2).pdf
+#  Cover Letter: # PATH TO cover letter
+#  Photo: # PATH TO photo
+
+# output_filename:
+# - # PATH TO OUTPUT FILE (default output.csv)
+
+blacklist:
+  - Cyangate
+  - Turkey
+  - Nokia
+  - Ankara
+  - Istanbul
+  - Izmir
+  - India
+  - C++
+  - C#
+  - Devops
+  - Python
+#blackListTitles:
+#- # Add job titles you want to ignore
